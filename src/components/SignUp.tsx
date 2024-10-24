@@ -51,7 +51,7 @@ function SignUp() {
               required
             />
           </div>
-          <div className="mb-4">
+          <div className="mb-6">
             <label htmlFor="password" className="block text-gray-700 font-bold mb-2">Password</label>
             <input
               type="password"
@@ -63,7 +63,7 @@ function SignUp() {
               required
             />
           </div>
-          <div className="mb-4">
+          <div className="mb-6">
             <label htmlFor="confirmPassword" className="block text-gray-700 font-bold mb-2">Confirm Password</label>
             <input
               type="password"
